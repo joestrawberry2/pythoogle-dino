@@ -2,5 +2,6 @@
 ```bash
 pip install pygame
 python pythoogle_dino.py```
+## or play in web
 
 or try to play the python in https://trinket.io/pygame
