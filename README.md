@@ -1,4 +1,3 @@
 Install:
 
-```pip install pygame pip install pygame
-python pythoogle_dino.py
+```pip install pygame. ```python pythoogle_dino.py
